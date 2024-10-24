@@ -50,11 +50,11 @@ Committed (1673): Total committed hours, indicating 100.00% service commitment.
 ![image](https://github.com/user-attachments/assets/22ea9b9b-09ff-48a7-9f0b-1ab3723cc43f)
 
 ### 2. Filters Explanation:
-A. Month: Select a specific month to filter data for that period.
-B. Region: Choose a region (East, West, North, South) to view location-specific data.
-C. Customer: Filter data based on specific clients or customers.
-D. Location: Focus on particular locations to analyze site-wise performance.
-E. Central Account Manager: Drill down into performance by individual account managers.
+1. Month: Select a specific month to filter data for that period.
+2. Region: Choose a region (East, West, North, South) to view location-specific data.
+3. Customer: Filter data based on specific clients or customers.
+4. Location: Focus on particular locations to analyze site-wise performance.
+5. Central Account Manager: Drill down into performance by individual account managers.
 
 ![image](https://github.com/user-attachments/assets/2157a5c9-534f-42dc-bce2-ed7034c41376)
 
