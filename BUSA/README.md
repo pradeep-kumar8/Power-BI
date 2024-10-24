@@ -1,11 +1,10 @@
 # Business User Service Availability Dashboard Using Power BI
 ## Table of Contents
-Project Objective
-Dataset Description
-Preparing Data for Analysis
-Visualizations
-Project Insights
-Project Objective
+1. Project Objective
+2. Dataset Description
+3. Preparing Data for Analysis
+4. Visualizations
+5. Project Insights
 The objective of this dashboard is to monitor the business user service availability, specifically focusing on tracking no-shows, planned and unplanned leaves, and attrition. This dashboard provides a detailed breakdown of service availability, identifying trends across regions, sites, and managers, as well as offering insights into reasons for no-shows. It enables stakeholders to make data-driven decisions to improve service availability and optimize workforce management.
 
 ## Dataset Description
