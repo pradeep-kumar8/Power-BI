@@ -49,48 +49,39 @@ Committed (1673): Total committed hours, indicating 100.00% service commitment.
 
 ![image](https://github.com/user-attachments/assets/22ea9b9b-09ff-48a7-9f0b-1ab3723cc43f)
 
-### 2. Filters Explanation:
-1. Month: Select a specific month to filter data for that period.
-2. Region: Choose a region (East, West, North, South) to view location-specific data.
-3. Customer: Filter data based on specific clients or customers.
-4. Location: Focus on particular locations to analyze site-wise performance.
-5. Central Account Manager: Drill down into performance by individual account managers.
-
-![image](https://github.com/user-attachments/assets/2157a5c9-534f-42dc-bce2-ed7034c41376)
-
-### 3. No Show Reason (Bar Chart)
+### 2. No Show Reason (Bar Chart)
 Objective: A breakdown of the reasons for no-shows across various categories such as Remote Location, Resource Shortage, Late Reporting, and Accident.
 Key Insights: The most frequent reasons for no-shows are Remote Location (153) and Resource Shortage (124), highlighting areas that require intervention.
 
 ![image](https://github.com/user-attachments/assets/2166ed16-c258-40e3-8e0f-f75e5182c74b)
 
-### 4. No Show - Manager Wise (Bar Chart)
+### 3. No Show - Manager Wise (Bar Chart)
 Objective: This bar chart shows no-shows categorized by individual managers.
 Key Insights: Vinod Bhan (164) has the highest no-show count, followed by Avadhesh Jha (102) and Kunal Sapre (60). Managers with higher no-show counts may need to investigate reasons or implement changes to improve attendance.
 
 ![image](https://github.com/user-attachments/assets/837eee18-7c2d-4a15-95a6-6c2b2f5df96c)
 
 
-### 5. No Show - Region Wise (Donut Chart)
+### 4. No Show - Region Wise (Donut Chart)
 Objective: This donut chart shows the percentage distribution of no-shows across different regions.
 Key Insights: The West region accounts for the largest percentage of no-shows (43.9%), followed by the North (28.2%) and South (25.7%), indicating a potential regional issue in these areas.
 
 ![image](https://github.com/user-attachments/assets/8a7f45d2-9d8f-420c-a05e-7530c28036d6)
 
-### 6. No Show Trend - Region Wise (Area Chart)
+### 5. No Show Trend - Region Wise (Area Chart)
 Objective: Displays monthly trends of no-shows broken down by region.
 Key Insights: Peaks in no-shows are visible in August and September, particularly in the West region, indicating seasonal trends or specific issues in these months.
 ![image](https://github.com/user-attachments/assets/d167165e-f6cd-49d2-b828-136f9d26d0c1)
 
 
-### 7. No Show - Site Wise (Bar Chart)
+### 6. No Show - Site Wise (Bar Chart)
 Objective: This chart provides a breakdown of no-shows based on various sites or client locations.
 Key Insights: Suzlon (196) and MAX (66) have the highest no-show rates among sites. Further analysis may be needed to address site-specific issues that contribute to no-shows.
 ![image](https://github.com/user-attachments/assets/8f67e688-7bee-427f-b538-05f0e864ab22)
 
 
 
-### 8. No Show Continuity - Location Wise (Line Chart)
+### 7. No Show Continuity - Location Wise (Line Chart)
 Objective: This chart is activated when clicking the replace icon on the Site Wise chart. It provides a breakdown of no-show continuity across various locations, tracking when no-shows started, how they continued over time, and when they ended.
 
 ![image](https://github.com/user-attachments/assets/057a9226-30d4-410a-8972-54b94f437723)
