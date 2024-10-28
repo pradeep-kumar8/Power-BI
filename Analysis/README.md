@@ -1,6 +1,7 @@
 
 Main
-![image](https://github.com/user-attachments/assets/1493ebcf-7db1-4981-ad09-83f0616a9eb0)
+![image](https://github.com/user-attachments/assets/282591b8-cced-415e-8078-bf3b4b889ea3)
+
 
 
 Cards
