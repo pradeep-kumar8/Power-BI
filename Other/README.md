@@ -1,5 +1,5 @@
 
-Call Analysez
+Call Analyse
 ![image](https://github.com/user-attachments/assets/6da8d008-cc94-4956-894f-3b670ea89414)  
 
 
