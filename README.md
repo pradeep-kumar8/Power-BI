@@ -26,13 +26,13 @@ Welcome to my **Power BI Dashboards Portfolio**, a collection of interactive and
    - **Skills:** Power BI, Custom Visuals, DAX, Data Modeling, Advanced Visualizations
    - **Impact:** Designed advanced visualizations, including custom charts, heatmaps, and geographical data visualizations to present data in an intuitive and interactive way.
    - **Features:** Custom visuals, drill-through capabilities, geographic visualizations, and **complex DAX calculations**.
-   - **Code/Link:** [Advanced Visualization Repository](./Other)
+   - **Code/Link:** [Other](./Other)
 
 ### **4. PMS (Performance Management System) Dashboard**
    - **Skills:** Power BI, Data Modeling, DAX, KPI Dashboards, Power Query
    - **Impact:** Built a **PMS dashboard** to track employee performance, attrition rates, and leave data. This dashboard automates HR processes, providing managers with key insights into workforce metrics.
    - **Features:** Automated performance reporting, attrition analysis, and leave trend tracking.
-   - **Code/Link:** [PMS Dashboard Repository](./PMS)
+   - **Code/Link:** [PMS Advance Visualization Repository](./PMS)
 
 ## **Skills and Tools**
 
